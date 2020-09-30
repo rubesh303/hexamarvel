@@ -36,10 +36,11 @@
                 { data: 'DT_RowIndex' },
                 { data: 'name' },
                 { data: 'phone_number' },
-                { data: 'company_name' },
+                { data: 'email' },
+				{ data: 'company_name' },
                 { data: 'branch_name' },
                 { data: 'designation_name' },
-                { data: 'email' },
+         
                 { data: 'action', orderable: false, searchable: false },
             ]
         });
